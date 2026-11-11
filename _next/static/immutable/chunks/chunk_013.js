@@ -1,1 +1,1 @@
-// stub for offline mode
+console.log('stub');
