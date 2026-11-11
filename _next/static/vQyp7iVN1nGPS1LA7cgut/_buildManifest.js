@@ -1,15 +1,15 @@
 self.__BUILD_MANIFEST = {
   "/_app.sites": [
-    "static/immutable/chunks/18lmnmvk_fjdr.js"
+    "static/immutable/chunks/chunk_033.js"
   ],
   "/_error": [
-    "static/immutable/chunks/0d-yfohdb2igt.js"
+    "static/immutable/chunks/chunk_014.js"
   ],
   "/published/[docId]": [
-    "static/immutable/chunks/1niu4vfb5rpql.js"
+    "static/immutable/chunks/chunk_041.js"
   ],
   "/published_mobile/[docId]": [
-    "static/immutable/chunks/3oo2k_khuw8nj.js"
+    "static/immutable/chunks/chunk_086.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -1077,4 +1077,4 @@ self.__BUILD_MANIFEST = {
     "/published/[docId]",
     "/published_mobile/[docId]"
   ]
-};self.__TURBOPACK_PAGE_BOOTSTRAP = {"/_app.sites":{"otherChunks":["static/immutable/chunks/035979gqus9zz.js"],"runtimeModuleIds":[910783,342272]},"/published_mobile/[docId]":{"otherChunks":["static/immutable/chunks/0hn4o31tt0ogm.js","static/immutable/chunks/3nzg4-34qjzcv.js","static/immutable/chunks/25e3ls_iwiurw.js","static/immutable/chunks/3x-wxut4bg2a1.js","static/immutable/chunks/21x5ue1idpr_v.js","static/immutable/chunks/3lr-yizokgedc.js","static/immutable/chunks/1z1r_q-clq7p7.js","static/immutable/chunks/0cu-3ok-8aaz0.css","static/immutable/chunks/0n303nx2vefm-.css","static/immutable/chunks/3h3pm8rvuuwbt.css"],"runtimeModuleIds":[910783,58356]},"/published/[docId]":{"otherChunks":["static/immutable/chunks/2fvr5yw-4lmw9.js","static/immutable/chunks/3nzg4-34qjzcv.js","static/immutable/chunks/25e3ls_iwiurw.js","static/immutable/chunks/3x-wxut4bg2a1.js","static/immutable/chunks/21x5ue1idpr_v.js","static/immutable/chunks/3lr-yizokgedc.js","static/immutable/chunks/1z1r_q-clq7p7.js","static/immutable/chunks/0cu-3ok-8aaz0.css","static/immutable/chunks/0n303nx2vefm-.css","static/immutable/chunks/3h3pm8rvuuwbt.css"],"runtimeModuleIds":[910783,250125]},"/_app":{"otherChunks":["static/immutable/chunks/3085ydebu4zco.js","static/immutable/chunks/1k0ttp80td_li.js","static/immutable/chunks/2f3vwhzq6mnqv.js","static/immutable/chunks/09mi2k74h22ns.js","static/immutable/chunks/3_48034jg77uu.js","static/immutable/chunks/11-er1z08pu-c.js","static/immutable/chunks/1bi0cm_2ln10x.js","static/immutable/chunks/1jzi8vakukgfx.js","static/immutable/chunks/05xe-0zauimys.js","static/immutable/chunks/054pu9e2qyoj6.js","static/immutable/chunks/2piqp_3q3mota.js","static/immutable/chunks/0hnfi-miluvq9.js","static/immutable/chunks/0zpzpfijid1p7.js","static/immutable/chunks/3wt6-vqmda1mc.css"],"runtimeModuleIds":[910783,938779]},"/_error":{"otherChunks":["static/immutable/chunks/0a0u8jxx6b2ak.js"],"runtimeModuleIds":[910783,480184]}};self.__TURBOPACK_CHUNK_LOADING_GLOBAL = "TURBOPACK";self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
+};self.__TURBOPACK_PAGE_BOOTSTRAP = {"/_app.sites":{"otherChunks":["static/immutable/chunks/chunk_006.js"],"runtimeModuleIds":[910783,342272]},"/published_mobile/[docId]":{"otherChunks":["static/immutable/chunks/export_pdf_pptx.js","static/immutable/chunks/viewer_renderer.js","static/immutable/chunks/chunk_054.js","static/immutable/chunks/ai_sdk.js","static/immutable/chunks/core_editor_intersection.js","static/immutable/chunks/drag_and_drop.js","static/immutable/chunks/gamma_badge_container.js","static/immutable/chunks/0cu-3ok-8aaz0.css","static/immutable/chunks/0n303nx2vefm-.css","static/immutable/chunks/3h3pm8rvuuwbt.css"],"runtimeModuleIds":[910783,58356]},"/published/[docId]":{"otherChunks":["static/immutable/chunks/chunk_059.js","static/immutable/chunks/viewer_renderer.js","static/immutable/chunks/chunk_054.js","static/immutable/chunks/ai_sdk.js","static/immutable/chunks/core_editor_intersection.js","static/immutable/chunks/drag_and_drop.js","static/immutable/chunks/gamma_badge_container.js","static/immutable/chunks/0cu-3ok-8aaz0.css","static/immutable/chunks/0n303nx2vefm-.css","static/immutable/chunks/3h3pm8rvuuwbt.css"],"runtimeModuleIds":[910783,250125]},"/_app":{"otherChunks":["static/immutable/chunks/chunk_069.js","static/immutable/chunks/chunk_040.js","static/immutable/chunks/chunk_057.js","static/immutable/chunks/chunk_009.js","static/immutable/chunks/chunk_074.js","static/immutable/chunks/chunk_030.js","static/immutable/chunks/ui_components_i18n.js","static/immutable/chunks/chunk_039.js","static/immutable/chunks/syntax_highlighting.js","static/immutable/chunks/react_hydration.js","static/immutable/chunks/chunk_063.js","static/immutable/chunks/translations_modals.js","static/immutable/chunks/chunk_029.js","static/immutable/chunks/3wt6-vqmda1mc.css"],"runtimeModuleIds":[910783,938779]},"/_error":{"otherChunks":["static/immutable/chunks/chunk_010.js"],"runtimeModuleIds":[910783,480184]}};self.__TURBOPACK_CHUNK_LOADING_GLOBAL = "TURBOPACK";self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,342272,(i,o,e)=>{let t="/_app.sites";(window.__NEXT_P=window.__NEXT_P||[]).push([t,()=>i.r(74674)]),o.hot&&o.hot.dispose(function(){window.__NEXT_P.push([t])})},74674,i=>{"use strict";var o=i.i(391398);i.i(186860),i.i(810321);var e=i.i(653861),t=i.i(584770);i.i(500711);var n=i.i(500190);i.i(312434);var s=i.i(487914),a=i.i(673921),d=i.i(379457);e.S.autoAddCss=!1,(0,d.e)(),s.f.initialize(),(0,n.b)(),(0,a.f)("appMainBundleLoaded"),console.log("🚀 GammaSite main wrapper imported"),window.console.debug=()=>{},i.s(["default",0,function({Component:i,pageProps:e}){return(0,o.jsx)(t.f,{children:(0,o.jsx)(i,{...e})})}])}]);
+
+//# sourceMappingURL=35y4cepaa9w96.js.map
